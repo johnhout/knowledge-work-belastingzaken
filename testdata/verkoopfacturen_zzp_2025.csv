@@ -1,0 +1,8 @@
+factuurnr,datum,klantnaam,klant_land,omschrijving,bedrag_excl,btw_tarief,btw_bedrag,bedrag_incl,betaald,betaaldatum
+VF-2025-001,2025-01-15,Alpha BV,NL,Advieswerk januari,4500.00,21%,945.00,5445.00,ja,2025-03-31
+VF-2025-002,2025-02-10,Beta BV,NL,Projectwerk februari,7200.00,21%,1512.00,8712.00,ja,2025-04-15
+VF-2025-003,2025-03-15,Gamma NV,NL,Training maart,3000.00,21%,630.00,3630.00,ja,2025-05-01
+VF-2025-004,2025-04-10,Delta GmbH,DE,Advieswerk april (ICP),6000.00,0% ICP,0.00,6000.00,ja,2025-05-20
+VF-2025-005,2025-05-15,Epsilon BV,NL,Implementatieproject,9500.00,21%,1995.00,11495.00,ja,2025-07-10
+VF-2025-006,2025-07-01,Zeta BV,NL,Advieswerk juli,5800.00,21%,1218.00,7018.00,ja,2025-08-30
+VF-2025-007,2025-10-15,Eta B.V.,NL,Projectwerk Q4,12000.00,21%,2520.00,14520.00,nee,

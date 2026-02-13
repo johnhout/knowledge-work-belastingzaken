@@ -1,0 +1,23 @@
+datum,factuurnummer,omschrijving,categorie,bedrag_excl_btw,btw_tarief,btw_bedrag,bedrag_incl_btw,relatie,btw_verlegd,betaald
+2025-01-15,V-2025-001,Consultancy opdracht Acme BV,omzet_diensten,4500.00,21%,945.00,5445.00,Acme BV,nee,ja
+2025-01-20,I-2025-001,Laptop Apple MacBook Pro,bedrijfsmiddel,1899.00,21%,398.79,2297.79,Coolblue,nee,ja
+2025-01-25,I-2025-002,Kantoorruimte huur januari,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-01-31,I-2025-003,Boekhoudpakket abonnement,administratiekosten,29.95,21%,6.29,36.24,Exact Online,nee,ja
+2025-02-10,V-2025-002,Strategisch advies Beta Corp,omzet_diensten,6200.00,21%,1302.00,7502.00,Beta Corp,nee,ja
+2025-02-15,V-2025-003,Workshop data-analyse,omzet_diensten,1500.00,21%,315.00,1815.00,Gamma Training BV,nee,ja
+2025-02-20,I-2025-004,Zakelijke verzekering Q1,verzekeringen,375.00,0%,0.00,375.00,Interpolis,nee,ja
+2025-02-25,I-2025-005,Kantoorruimte huur februari,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-03-05,V-2025-004,Interim PM opdracht Delta BV,omzet_diensten,8400.00,21%,1764.00,10164.00,Delta BV,nee,ja
+2025-03-10,I-2025-006,Treinkaarten zakelijk,reiskosten,185.50,9%,16.70,202.20,NS,nee,ja
+2025-03-15,I-2025-007,Zakelijke telefoon abonnement Q1,communicatiekosten,89.85,21%,18.87,108.72,KPN,nee,ja
+2025-03-25,I-2025-008,Kantoorruimte huur maart,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-03-31,I-2025-009,Boekhoudpakket abonnement Q1,administratiekosten,29.95,21%,6.29,36.24,Exact Online,nee,ja
+2025-04-12,V-2025-005,Adviesopdracht Epsilon NV,omzet_diensten,5800.00,21%,1218.00,7018.00,Epsilon NV,nee,nee
+2025-04-20,I-2025-010,Ergonomisch bureau + stoel,bedrijfsmiddel,849.00,21%,178.29,1027.29,IKEA Business,nee,ja
+2025-04-25,I-2025-011,Kantoorruimte huur april,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-05-08,V-2025-006,Cloud architectuur review,omzet_diensten,3200.00,21%,672.00,3872.00,Zeta Cloud BV,nee,ja
+2025-05-15,V-2025-007,Consultancy diensten Duitsland,omzet_diensten,7500.00,0%,0.00,7500.00,Schmidt GmbH,ja,ja
+2025-05-25,I-2025-012,Kantoorruimte huur mei,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-06-10,V-2025-008,Data migratie project,omzet_diensten,9500.00,21%,1995.00,11495.00,Eta Systems BV,nee,nee
+2025-06-25,I-2025-013,Kantoorruimte huur juni,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-06-30,I-2025-014,Vakliteratuur en cursussen,opleidingskosten,450.00,9%,40.50,490.50,Springest,nee,ja

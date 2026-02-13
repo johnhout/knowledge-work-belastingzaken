@@ -1,0 +1,18 @@
+rubriek,code,omschrijving,bedrag
+1a,1a,Leveringen/diensten belast met hoog tarief (21%),14700.00
+1b,1b,Leveringen/diensten belast met laag tarief (9%),380.00
+1c,1c,Leveringen/diensten belast met overige tarieven,0.00
+1d,1d,Privégebruik,0.00
+1e,1e,Leveringen/diensten belast met 0% of niet bij u belast,0.00
+2a,2a,Leveringen/diensten waarbij omzetbelasting naar u is verlegd,0.00
+3a,3a,Prestaties vanuit het buitenland aan u verricht,0.00
+3b,3b,Leveringen vanuit het buitenland aan u verricht,0.00
+4a,4a,Leveringen naar landen buiten de EU,0.00
+4b,4b,Leveringen naar / diensten in landen binnen de EU,0.00
+5a,5a,Verschuldigde omzetbelasting (1a t/m 4b),3087.00
+5b,5b,Voorbelasting,238.95
+5c,5c_subtotaal,Subtotaal (5a min 5b),2848.05
+5d,5d,Vermindering kleineondernemersregeling,0.00
+5e,5e,Schatting vorige tijdvakken,0.00
+5f,5f,Schatting dit tijdvak,0.00
+5g,5g,Totaal te betalen,2848.05

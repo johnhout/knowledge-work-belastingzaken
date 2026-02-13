@@ -1,0 +1,6 @@
+klantnummer,naam,type,bsn,kvk_nummer,btw_id,adres,postcode,plaats,telefoon,email,fiscaal_partner,startdatum_onderneming,boekjaar
+K-001,Jan de Vries,zzp,123456789,87654321,NL123456789B01,Keizersgracht 100,1015 AA,Amsterdam,+31612345678,jan@devries-consultancy.nl,nee,2021-03-01,2025
+K-002,Bakkerij Broodjes BV,bv,,12345678,NL987654321B01,Herengracht 200,1016 BG,Amsterdam,+31201234567,admin@broodjesbv.nl,,2018-06-15,2025
+K-003,Maria Jansen,particulier,987654321,,,Prinsengracht 300,1017 GX,Amsterdam,+31698765432,maria.jansen@gmail.com,ja,,2025
+K-004,TechStart BV,bv,,23456789,NL456789012B01,Zuidas 50,1082 MD,Amsterdam,+31207654321,finance@techstart.nl,,2022-01-10,2025
+K-005,Pieter Bakker,zzp,111222333,34567890,NL111222333B01,Damrak 75,1012 LM,Amsterdam,+31611223344,pieter@bakker-design.nl,ja,2019-09-01,2025

@@ -1,0 +1,29 @@
+grootboekrekening,omschrijving,categorie,bedrag,debet_credit
+8000,Omzet broodjes en belegde producten,netto_omzet,685000.00,credit
+8010,Omzet catering en events,netto_omzet,142000.00,credit
+8020,Omzet bezorgdiensten,netto_omzet,58000.00,credit
+8100,Inkoopwaarde grondstoffen (meel bloem boter),kostprijs_omzet,-248000.00,debet
+8110,Inkoopwaarde beleg en vulling,kostprijs_omzet,-87500.00,debet
+8120,Verpakkingsmateriaal,kostprijs_omzet,-18200.00,debet
+4000,Lonen en salarissen,personeelskosten,-195000.00,debet
+4010,Sociale lasten,personeelskosten,-38400.00,debet
+4020,Pensioenlasten,personeelskosten,-14200.00,debet
+4030,Overige personeelskosten,personeelskosten,-6800.00,debet
+4100,Huur bedrijfspand Herengracht,huisvestingskosten,-54000.00,debet
+4110,Energie en water,huisvestingskosten,-12600.00,debet
+4120,Onderhoud en schoonmaak,huisvestingskosten,-7200.00,debet
+4200,Afschrijving ovens en keukenapparatuur,afschrijvingen,-18500.00,debet
+4210,Afschrijving bezorgbussen,afschrijvingen,-12000.00,debet
+4220,Afschrijving inventaris en inrichting,afschrijvingen,-5400.00,debet
+4300,Autokosten bezorgbussen,vervoerskosten,-14800.00,debet
+4310,Brandstofkosten,vervoerskosten,-9200.00,debet
+4400,Reclame en marketing,verkoopkosten,-8500.00,debet
+4410,Website en online bestellingen,verkoopkosten,-3600.00,debet
+4500,Accountant en advieskosten,administratiekosten,-9500.00,debet
+4510,Kantoorbenodigdheden,administratiekosten,-2400.00,debet
+4520,Software en abonnementen,administratiekosten,-4800.00,debet
+4600,Verzekeringen,overige_kosten,-7200.00,debet
+4610,Bankkosten,overige_kosten,-1800.00,debet
+4700,Rentelasten bedrijfslening,financiele_lasten,-6800.00,debet
+8500,Rentebaten spaarrekening,financiele_baten,1200.00,credit
+9000,Incidentele bate - verkoop oude bezorgbus,buitengewone_baten,4500.00,credit

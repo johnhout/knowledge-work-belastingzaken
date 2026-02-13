@@ -1,0 +1,36 @@
+datum,boekstuk,grootboekrekening,omschrijving,debet,credit,btw_code,btw_bedrag,kostenplaats
+2025-01-15,VF-2025-001,8000,Omzet advieswerk klant Alpha,0.00,4500.00,21%,945.00,advies
+2025-01-15,VF-2025-001,1300,Debiteuren Alpha BV,5445.00,0.00,,,
+2025-01-31,INK-2025-001,4100,Kantoorhuur januari,850.00,0.00,21%,178.50,kantoor
+2025-01-31,INK-2025-001,1600,Crediteuren verhuurder,0.00,1028.50,,,
+2025-02-10,VF-2025-002,8000,Omzet projectwerk klant Beta,0.00,7200.00,21%,1512.00,projecten
+2025-02-10,VF-2025-002,1300,Debiteuren Beta BV,8712.00,0.00,,,
+2025-02-28,INK-2025-002,4200,Softwarelicenties februari,125.00,0.00,21%,26.25,ict
+2025-02-28,INK-2025-002,1600,Crediteuren software vendor,0.00,151.25,,,
+2025-03-05,INK-2025-003,4300,Zakelijke reiskosten Q1,380.00,0.00,9%,34.20,reizen
+2025-03-05,INK-2025-003,1600,Crediteuren reiskosten,0.00,414.20,,,
+2025-03-15,VF-2025-003,8000,Omzet training klant Gamma,0.00,3000.00,21%,630.00,training
+2025-03-15,VF-2025-003,1300,Debiteuren Gamma NV,3630.00,0.00,,,
+2025-03-31,BK-2025-001,1100,Bankafschrift ontvangst Alpha,5445.00,0.00,,,
+2025-03-31,BK-2025-001,1300,Debiteuren Alpha BV,0.00,5445.00,,,
+2025-04-10,VF-2025-004,8000,Omzet advies klant Delta (EU),0.00,6000.00,ICP,0.00,advies
+2025-04-10,VF-2025-004,1300,Debiteuren Delta GmbH,6000.00,0.00,,,
+2025-04-30,INK-2025-004,4400,Beroepsaansprakelijkheidsverzekering,220.00,0.00,vrij,0.00,verzekering
+2025-04-30,INK-2025-004,1600,Crediteuren verzekeraar,0.00,220.00,,,
+2025-05-15,VF-2025-005,8000,Omzet implementatie klant Epsilon,0.00,9500.00,21%,1995.00,projecten
+2025-05-15,VF-2025-005,1300,Debiteuren Epsilon BV,11495.00,0.00,,,
+2025-06-01,INK-2025-005,4500,Afschrijving laptop (halfjaar),416.67,0.00,0%,0.00,ict
+2025-06-30,INK-2025-006,4100,Kantoorhuur Q2 (apr-jun),2550.00,0.00,21%,535.50,kantoor
+2025-06-30,INK-2025-006,1600,Crediteuren verhuurder,0.00,3085.50,,,
+2025-07-01,VF-2025-006,8000,Omzet advieswerk klant Zeta,0.00,5800.00,21%,1218.00,advies
+2025-07-01,VF-2025-006,1300,Debiteuren Zeta BV,7018.00,0.00,,,
+2025-09-30,INK-2025-007,4100,Kantoorhuur Q3 (jul-sep),2550.00,0.00,21%,535.50,kantoor
+2025-09-30,INK-2025-007,1600,Crediteuren verhuurder,0.00,3085.50,,,
+2025-10-15,VF-2025-007,8000,Omzet project klant Eta,0.00,12000.00,21%,2520.00,projecten
+2025-10-15,VF-2025-007,1300,Debiteuren Eta B.V.,14520.00,0.00,,,
+2025-11-30,INK-2025-008,4600,Vakliteratuur en opleiding,750.00,0.00,9%,67.50,opleiding
+2025-11-30,INK-2025-008,1600,Crediteuren opleidingsinstituut,0.00,817.50,,,
+2025-12-31,INK-2025-009,4100,Kantoorhuur Q4 (okt-dec),2550.00,0.00,21%,535.50,kantoor
+2025-12-31,INK-2025-009,1600,Crediteuren verhuurder,0.00,3085.50,,,
+2025-12-31,INK-2025-010,4500,Afschrijving laptop (halfjaar),416.67,0.00,0%,0.00,ict
+2025-12-31,MEM-2025-001,4700,Kleine ondernemersregeling (KOR),0.00,0.00,memo,0.00,
