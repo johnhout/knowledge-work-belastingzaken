@@ -1,0 +1,8 @@
+{
+  "name": "belastingadviseur",
+  "version": "1.0.0",
+  "description": "Ondersteunt Nederlandse belastingwerkstromen voor particulieren, zzp en bv met intake, aangiftevoorbereiding, controles en bezwaarconcepten met officiele bronverificatie.",
+  "author": {
+    "name": "John Inthout"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp"
+    },
+    "ms365": {
+      "type": "http",
+      "url": "https://microsoft365.mcp.claude.com/mcp"
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "bigquery": {
+      "type": "http",
+      "url": "https://bigquery.googleapis.com/mcp"
+    },
+    "snowflake": {
+      "type": "http",
+      "url": ""
+    }
+  }
+}
