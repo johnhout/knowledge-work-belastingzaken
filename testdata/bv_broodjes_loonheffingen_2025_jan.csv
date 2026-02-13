@@ -1,0 +1,9 @@
+werknemer_id,naam,functie,geboortedatum,bsn,contract_type,fte,bruto_loon,vakantiegeld_reservering,loonheffing,zvw_bijdrage,ww_premie_awf,ww_premie_whk,pensioen_wn,pensioen_wg,netto_loon,reiskostenvergoeding,wkr_vergoeding,bijzondere_beloning
+W-001,Ahmed El Amrani,Hoofdbakker,1985-03-12,111111111,onbepaalde_tijd,1.0,4200.00,336.00,1176.00,231.42,126.00,58.80,168.00,252.00,2468.58,0.00,0.00,0.00
+W-002,Sophie van den Berg,Bakker,1992-07-24,222222222,onbepaalde_tijd,1.0,3400.00,272.00,884.00,187.34,102.00,47.60,136.00,204.00,2043.06,0.00,0.00,0.00
+W-003,Daan Visser,Bakker,1998-11-03,333333333,onbepaalde_tijd,1.0,3200.00,256.00,816.00,176.32,96.00,44.80,128.00,192.00,1939.68,0.00,0.00,0.00
+W-004,Lisa Mulder,Verkoopmedewerker,2000-05-18,444444444,onbepaalde_tijd,0.8,2240.00,179.20,493.68,123.42,67.20,31.36,89.60,134.40,1435.10,45.00,0.00,0.00
+W-005,Kevin de Groot,Verkoopmedewerker,2001-09-30,555555555,bepaalde_tijd,0.6,1680.00,134.40,319.20,92.57,50.40,23.52,67.20,100.80,1127.63,45.00,0.00,0.00
+W-006,Fatima Bouazizi,Bezorger,1995-02-14,666666666,onbepaalde_tijd,1.0,2800.00,224.00,672.00,154.28,84.00,39.20,112.00,168.00,1738.72,0.00,25.00,0.00
+W-007,Tom Hendriks,Bezorger,1999-08-06,777777777,bepaalde_tijd,0.8,2240.00,179.20,493.68,123.42,67.20,31.36,89.60,134.40,1435.10,0.00,25.00,0.00
+W-008,Emma Willemsen,Administratie,1990-12-22,888888888,onbepaalde_tijd,0.6,2100.00,168.00,441.00,115.71,63.00,29.40,84.00,126.00,1366.29,65.00,0.00,0.00

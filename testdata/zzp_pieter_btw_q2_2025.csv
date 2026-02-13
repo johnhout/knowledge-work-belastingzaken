@@ -1,0 +1,22 @@
+datum,factuurnummer,type,omschrijving,relatie,land,bedrag_excl_btw,btw_tarief,btw_bedrag,bedrag_incl_btw,btw_verlegd,icp,betaalstatus
+2025-04-02,V-2025-010,verkoop,Logo ontwerp pakket,Bloemenwinkel Tulp,NL,2800.00,21%,588.00,3388.00,nee,nee,betaald
+2025-04-08,V-2025-011,verkoop,Website redesign,Tandarts Kliniek Oost,NL,5500.00,21%,1155.00,6655.00,nee,nee,betaald
+2025-04-10,I-2025-020,inkoop,Adobe Creative Cloud Q2,Adobe Inc,US,164.97,21%,0.00,164.97,ja,nee,betaald
+2025-04-12,I-2025-021,inkoop,Stockfoto licenties,Shutterstock,US,79.00,21%,0.00,79.00,ja,nee,betaald
+2025-04-15,V-2025-012,verkoop,Huisstijl ontwikkeling,Schmidt Architecten GmbH,DE,4200.00,0%,0.00,4200.00,ja,ja,betaald
+2025-04-18,I-2025-022,inkoop,Nieuwe monitor 4K,Coolblue,NL,549.00,21%,115.29,664.29,nee,nee,betaald
+2025-04-25,I-2025-023,inkoop,Co-working space april,Spaces Amsterdam,NL,350.00,21%,73.50,423.50,nee,nee,betaald
+2025-04-30,V-2025-013,verkoop,Social media templates,Lokaal Café de Hoek,NL,950.00,21%,199.50,1149.50,nee,nee,betaald
+2025-05-05,V-2025-014,verkoop,Branding pakket compleet,FreshFood BV,NL,7800.00,21%,1638.00,9438.00,nee,nee,openstaand
+2025-05-10,V-2025-015,verkoop,Packaging design,Bio Bier Brouwerij,BE,3500.00,0%,0.00,3500.00,ja,ja,betaald
+2025-05-12,I-2025-024,inkoop,Wacom tekentablet,Bol.com,NL,329.00,21%,69.09,398.09,nee,nee,betaald
+2025-05-15,I-2025-025,inkoop,Drukwerk visitekaartjes,Vistaprint,NL,89.50,21%,18.80,108.30,nee,nee,betaald
+2025-05-20,V-2025-016,verkoop,Infographic serie (3 stuks),Gemeente Amsterdam,NL,2400.00,21%,504.00,2904.00,nee,nee,betaald
+2025-05-25,I-2025-026,inkoop,Co-working space mei,Spaces Amsterdam,NL,350.00,21%,73.50,423.50,nee,nee,betaald
+2025-06-02,V-2025-017,verkoop,Animatie explainer video,StartupXYZ BV,NL,6500.00,21%,1365.00,7865.00,nee,nee,openstaand
+2025-06-08,V-2025-018,verkoop,UI/UX design app,MedTech Solutions SA,CH,8200.00,0%,0.00,8200.00,ja,nee,betaald
+2025-06-10,I-2025-027,inkoop,Cursus motion design,Domestika,ES,49.90,21%,0.00,49.90,ja,ja,betaald
+2025-06-15,I-2025-028,inkoop,Zakelijke aansprakelijkheidsverzekering,Hiscox,NL,312.50,21%,65.63,378.13,nee,nee,betaald
+2025-06-20,V-2025-019,verkoop,Fotografie productlijn,Juwelier van Amstel,NL,1800.00,21%,378.00,2178.00,nee,nee,betaald
+2025-06-25,I-2025-029,inkoop,Co-working space juni,Spaces Amsterdam,NL,350.00,21%,73.50,423.50,nee,nee,betaald
+2025-06-30,V-2025-020,verkoop,Maandelijkse retainer design,Consultancy Firm BV,NL,3500.00,21%,735.00,4235.00,nee,nee,betaald

@@ -1,0 +1,10 @@
+bron,omschrijving,werkgever_instelling,bruto_bedrag,loonheffing_ingehouden,zvw_bijdrage,netto_bedrag,box,jaaropgave_ontvangen
+dienstverband,Salaris voltijd,Universiteit van Amsterdam,62000.00,18600.00,3410.00,39990.00,box1,ja
+dienstverband,Vakantiegeld,Universiteit van Amsterdam,4960.00,1984.00,272.80,2703.20,box1,ja
+eigen_woning,WOZ-waarde eigen woning (Prinsengracht),Gemeente Amsterdam,0.00,0.00,0.00,0.00,box1,n.v.t.
+eigen_woning,Eigenwoningforfait 0.35% van WOZ 520000,n.v.t.,1820.00,0.00,0.00,0.00,box1,n.v.t.
+eigen_woning,Hypotheekrente eigen woning,ABN AMRO,-14200.00,0.00,0.00,0.00,box1,ja
+partner_inkomen,Salaris partner deeltijd,Amsterdam UMC,38000.00,9500.00,2090.00,26410.00,box1,ja
+uitkering,Kindgebonden budget,Belastingdienst/Toeslagen,1850.00,0.00,0.00,1850.00,box1,ja
+gift,Giften aan ANBI instellingen,Diverse,0.00,0.00,0.00,-2400.00,box1,n.v.t.
+zorgkosten,Specifieke zorgkosten boven drempel,Diverse,0.00,0.00,0.00,-1850.00,box1,n.v.t.

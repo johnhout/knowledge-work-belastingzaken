@@ -1,0 +1,28 @@
+datum,factuurnummer,type,omschrijving,relatie,bedrag_excl_btw,btw_tarief,btw_bedrag,bedrag_incl_btw,btw_verlegd,icp
+2025-01-05,V-001,verkoop,Cateringorder Nieuwjaarsborrel,ABN AMRO kantoor,3200.00,9%,288.00,3488.00,nee,nee
+2025-01-10,V-002,verkoop,Weeklevering broodjes,WeWork Zuidas,1850.00,9%,166.50,2016.50,nee,nee
+2025-01-12,I-001,inkoop,Bloem en grondstof levering jan,Molen de Valk BV,8500.00,9%,765.00,9265.00,nee,nee
+2025-01-15,V-003,verkoop,Lunchpakketten conferentie,RAI Amsterdam,4500.00,9%,405.00,4905.00,nee,nee
+2025-01-18,I-002,inkoop,Beleg groothandel jan,Sligro,4200.00,9%,378.00,4578.00,nee,nee
+2025-01-20,V-004,verkoop,Dagelijkse winkelverkoop week 3,Winkelverkoop,6200.00,9%,558.00,6758.00,nee,nee
+2025-01-25,I-003,inkoop,Verpakkingsmateriaal Q1,PackRight BV,2100.00,21%,441.00,2541.00,nee,nee
+2025-01-28,I-004,inkoop,Schoonmaakdiensten jan,Cleaning Plus,600.00,21%,126.00,726.00,nee,nee
+2025-01-31,V-005,verkoop,Bezorgomzet januari,Diverse klanten,4800.00,9%,432.00,5232.00,nee,nee
+2025-02-03,V-006,verkoop,Cateringorder vergadering,ING hoofdkantoor,2800.00,9%,252.00,3052.00,nee,nee
+2025-02-08,I-005,inkoop,Bloem en grondstof levering feb,Molen de Valk BV,7800.00,9%,702.00,8502.00,nee,nee
+2025-02-10,V-007,verkoop,Weeklevering kantoren,Diverse kantoren,5500.00,9%,495.00,5995.00,nee,nee
+2025-02-14,V-008,verkoop,Valentijn special broodjes,Winkelverkoop,3200.00,9%,288.00,3488.00,nee,nee
+2025-02-18,I-006,inkoop,Beleg groothandel feb,Sligro,3900.00,9%,351.00,4251.00,nee,nee
+2025-02-20,I-007,inkoop,Onderhoud oven,Bakkerstechniek BV,1450.00,21%,304.50,1754.50,nee,nee
+2025-02-25,I-008,inkoop,Brandstof bezorgbussen feb,Shell,1200.00,21%,252.00,1452.00,nee,nee
+2025-02-28,V-009,verkoop,Bezorgomzet februari,Diverse klanten,5200.00,9%,468.00,5668.00,nee,nee
+2025-03-05,V-010,verkoop,Grote cateringorder,Booking.com HQ,8500.00,9%,765.00,9265.00,nee,nee
+2025-03-08,I-009,inkoop,Bloem en grondstof levering mrt,Molen de Valk BV,9200.00,9%,828.00,10028.00,nee,nee
+2025-03-10,V-011,verkoop,Weeklevering kantoren,Diverse kantoren,6100.00,9%,549.00,6649.00,nee,nee
+2025-03-12,I-010,inkoop,Beleg groothandel mrt,Sligro,4500.00,9%,405.00,4905.00,nee,nee
+2025-03-15,I-011,inkoop,Reclamemateriaal voorjaar,DrukwerkMax,1800.00,21%,378.00,2178.00,nee,nee
+2025-03-20,V-012,verkoop,Winkelverkoop week 12,Winkelverkoop,5800.00,9%,522.00,6322.00,nee,nee
+2025-03-22,I-012,inkoop,Inkoopfactuur bakkerijbenodigdheden België,Puratos NV,3200.00,21%,0.00,3200.00,ja,ja
+2025-03-25,I-013,inkoop,Brandstof bezorgbussen mrt,Shell,1350.00,21%,283.50,1633.50,nee,nee
+2025-03-28,V-013,verkoop,Bezorgomzet maart,Diverse klanten,6300.00,9%,567.00,6867.00,nee,nee
+2025-03-31,I-014,inkoop,Accountantskosten Q1,Mazars,2500.00,21%,525.00,3025.00,nee,nee

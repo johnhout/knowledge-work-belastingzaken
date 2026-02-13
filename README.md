@@ -73,6 +73,21 @@ If placeholders like `~~boekhouding` or `~~data warehouse` appear, see [CONNECTO
 2. Add assessment details and factual grounds.
 3. Validate legal references and submission timing.
 
+## Testdata
+
+De map `testdata/` bevat dummy CSV-bestanden om de plugin mee te testen.
+
+| Bestand | Klant | Te testen met |
+|---------|-------|---------------|
+| `klanten.csv` | Alle 5 klanten | `/belastingadviseur:intake` — klantprofielen voor zzp, bv en particulier |
+| `zzp_jan_boekhouding_2025.csv` | Jan de Vries (ZZP) | `/belastingadviseur:ib-aangifte`, `/belastingadviseur:btw-aangifte`, `/belastingadviseur:aftrekcheck` |
+| `zzp_pieter_btw_q2_2025.csv` | Pieter Bakker (ZZP) | `/belastingadviseur:btw-aangifte` — bevat ICP (DE, BE, CH), verlegd en openstaande facturen |
+| `bv_broodjes_resultatenrekening_2025.csv` | Bakkerij Broodjes BV | `/belastingadviseur:vpb-aangifte` — volledige resultatenrekening voor fiscale winstbepaling |
+| `bv_broodjes_btw_q1_2025.csv` | Bakkerij Broodjes BV | `/belastingadviseur:btw-aangifte` — Q1 verkoop- en inkoopfacturen met ICP-inkoop |
+| `bv_broodjes_loonheffingen_2025_jan.csv` | Bakkerij Broodjes BV | `/belastingadviseur:loonheffingen` — 8 werknemers, diverse contractvormen en WKR |
+| `particulier_maria_inkomsten_2025.csv` | Maria Jansen (particulier) | `/belastingadviseur:ib-aangifte` — salaris, eigen woning, fiscaal partner, giften |
+| `particulier_maria_box3_2025.csv` | Maria Jansen (particulier) | `/belastingadviseur:ib-aangifte` — box 3 vermogen incl. crypto en tweede woning |
+
 ## Configuration
 
 Edit `.mcp.json` to align with your connected stack.

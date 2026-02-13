@@ -1,0 +1,12 @@
+categorie,omschrijving,instelling,rekeningnummer,waarde_01012025,waarde_31122025,eigendomsverhouding
+banktegoeden,Betaalrekening,ING Bank,NL91INGB0001234567,4250.00,5180.00,100%
+banktegoeden,Spaarrekening,ING Bank,NL91INGB0009876543,45000.00,47500.00,50%
+banktegoeden,Spaarrekening partner,Rabobank,NL44RABO0012345678,32000.00,33800.00,50%
+beleggingen,Beleggingsrekening aandelen,DeGiro,NL20DEGR0012345678,85000.00,92400.00,50%
+beleggingen,ETF portefeuille,Meesman,NL30MEES0012345678,42000.00,48600.00,50%
+beleggingen,Obligatiefonds,ABN AMRO,NL50ABNA0012345678,25000.00,24200.00,100%
+onroerend_goed,Tweede woning Zeeland,n.v.t.,n.v.t.,285000.00,295000.00,50%
+schulden,Hypotheek tweede woning,Rabobank,n.v.t.,-180000.00,-175000.00,50%
+schulden,Doorlopend krediet,ING Bank,n.v.t.,-8500.00,-6200.00,100%
+overig,Uitgeleend aan familielid,n.v.t.,n.v.t.,15000.00,10000.00,100%
+crypto,Bitcoin en Ethereum,Bitvavo,n.v.t.,12000.00,18500.00,100%
