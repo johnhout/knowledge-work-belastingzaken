@@ -2,18 +2,23 @@
 
 # Belastingadviseur Plugin
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/johnovate)
+
 A bilingual Dutch tax workflow plugin for [Cowork](https://claude.com/product/cowork) and Claude Code.
 It supports full-spectrum Netherlands tax operations for **particulier, ZZP, and BV** use cases.
 
-> **Important / Belangrijk**:
+> **Important**:
 > This plugin supports tax workflows, not legal or fiscal advice.
 > All outputs must be reviewed by a qualified Dutch tax professional before filing, payment, objection, or legal submission.
 
 ## Installation
 
-Install through the Cowork or Claude Code plugin import flow, pointing at the root of this repository.
+1. Download the latest `.zip` from [GitHub Releases](https://github.com/johnhout/knowledge-work-belastingzaken/releases).
+2. Open **Claude** and navigate to **Cowork** > **Plugins**.
+3. Click the **"..."** menu and select **"Upload plugin"**.
+4. Select the downloaded zip file.
 
-Pre-built zip files are also available on the [GitHub Releases](../../releases) page — download one and use the "upload plugin" option in the import flow.
+![Upload plugin via Cowork](claude-cowork-install.jpg)
 
 ## Commands
 
