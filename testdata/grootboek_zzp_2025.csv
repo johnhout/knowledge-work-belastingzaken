@@ -24,12 +24,22 @@ datum,boekstuk,grootboekrekening,omschrijving,debet,credit,btw_code,btw_bedrag,k
 2025-06-30,INK-2025-006,1600,Crediteuren verhuurder,0.00,3085.50,,,
 2025-07-01,VF-2025-006,8000,Omzet advieswerk klant Zeta,0.00,5800.00,21%,1218.00,advies
 2025-07-01,VF-2025-006,1300,Debiteuren Zeta BV,7018.00,0.00,,,
+2025-08-20,VF-2025-008,8000,Omzet advieswerk klant Iota,0.00,6500.00,21%,1365.00,advies
+2025-08-20,VF-2025-008,1300,Debiteuren Iota BV,7865.00,0.00,,,
+2025-09-10,VF-2025-009,8000,Omzet training klant Kappa,0.00,3500.00,21%,735.00,training
+2025-09-10,VF-2025-009,1300,Debiteuren Kappa NV,4235.00,0.00,,,
 2025-09-30,INK-2025-007,4100,Kantoorhuur Q3 (jul-sep),2550.00,0.00,21%,535.50,kantoor
 2025-09-30,INK-2025-007,1600,Crediteuren verhuurder,0.00,3085.50,,,
 2025-10-15,VF-2025-007,8000,Omzet project klant Eta,0.00,12000.00,21%,2520.00,projecten
 2025-10-15,VF-2025-007,1300,Debiteuren Eta B.V.,14520.00,0.00,,,
+2025-11-15,VF-2025-010,8000,Omzet implementatie klant Lambda,0.00,8000.00,21%,1680.00,projecten
+2025-11-15,VF-2025-010,1300,Debiteuren Lambda BV,9680.00,0.00,,,
 2025-11-30,INK-2025-008,4600,Vakliteratuur en opleiding,750.00,0.00,9%,67.50,opleiding
 2025-11-30,INK-2025-008,1600,Crediteuren opleidingsinstituut,0.00,817.50,,,
+2025-12-01,VF-2025-011,8000,Omzet strategie klant Mu,0.00,5800.00,21%,1218.00,advies
+2025-12-01,VF-2025-011,1300,Debiteuren Mu Corp,7018.00,0.00,,,
+2025-12-10,VF-2025-012,8000,Omzet advies klant Weber (EU),0.00,5500.00,ICP,0.00,advies
+2025-12-10,VF-2025-012,1300,Debiteuren Weber GmbH,5500.00,0.00,,,
 2025-12-31,INK-2025-009,4100,Kantoorhuur Q4 (okt-dec),2550.00,0.00,21%,535.50,kantoor
 2025-12-31,INK-2025-009,1600,Crediteuren verhuurder,0.00,3085.50,,,
 2025-12-31,INK-2025-010,4500,Afschrijving laptop (halfjaar),416.67,0.00,0%,0.00,ict

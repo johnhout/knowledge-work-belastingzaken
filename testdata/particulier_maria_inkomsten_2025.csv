@@ -8,3 +8,9 @@ partner_inkomen,Salaris partner deeltijd,Amsterdam UMC,38000.00,9500.00,2090.00,
 uitkering,Kindgebonden budget,Belastingdienst/Toeslagen,1850.00,0.00,0.00,1850.00,box1,ja
 gift,Giften aan ANBI instellingen,Diverse,0.00,0.00,0.00,-2400.00,box1,n.v.t.
 zorgkosten,Specifieke zorgkosten boven drempel,Diverse,0.00,0.00,0.00,-1850.00,box1,n.v.t.
+dienstverband,Eindejaarsuitkering december,Universiteit van Amsterdam,5270.00,2108.00,289.85,2872.15,box1,ja
+pensioen,Pensioenpremie ABP (eigen bijdrage),ABP,-4960.00,0.00,0.00,0.00,box1,ja
+overig_inkomen,Freelance vertaalwerk universiteit,Diverse opdrachtgevers,3200.00,0.00,0.00,3200.00,box1,nee
+partner_inkomen,Vakantiegeld partner,Amsterdam UMC,3040.00,760.00,167.20,2112.80,box1,ja
+lijfrente,Lijfrentepremie jaarruimte,Centraal Beheer,-2500.00,0.00,0.00,0.00,box1,n.v.t.
+partner_inkomen,Eindejaarsuitkering partner,Amsterdam UMC,3230.00,807.50,177.65,2244.85,box1,ja

@@ -58,6 +58,66 @@ This plugin enforces an official-source-first policy before any date/rate/thresh
 
 If placeholders like `~~boekhouding` or `~~data warehouse` appear, see [CONNECTORS.md](CONNECTORS.md).
 
+## Example Prompts
+
+Each command below can be tested with the included test data files.
+
+### Intake — ZZP client onboarding
+
+```
+/belastingadviseur:intake zzp 2025
+```
+Upload `klanten.csv`. Builds a complete dossier for Jan de Vries (ZZP) with obligations, missing documents, and risk flags.
+
+### Tax Calendar — BV annual planning
+
+```
+/belastingadviseur:tax-calendar 2025 bv
+```
+Upload `klanten.csv`. Generates a verified deadline calendar for Bakkerij Broodjes BV covering BTW, VPB, and loonheffingen filing dates.
+
+### IB Aangifte — Individual income tax
+
+```
+/belastingadviseur:ib-aangifte 2025 particulier
+```
+Upload `particulier_maria_inkomsten_2025.csv` and `particulier_maria_box3_2025.csv`. Walks through box 1 (salary, eigen woning, partner), box 3 (vermogen incl. crypto), and checks completeness.
+
+### BTW Aangifte — Quarterly VAT return
+
+```
+/belastingadviseur:btw-aangifte 2025-Q2 zzp
+```
+Upload `zzp_pieter_btw_q2_2025.csv`. Processes Q2 VAT including ICP transactions (DE, BE, CH), reverse-charge, and open invoices.
+
+### VPB Aangifte — Corporate income tax
+
+```
+/belastingadviseur:vpb-aangifte 2025
+```
+Upload `bv_broodjes_resultatenrekening_2025.csv`. Builds the fiscal profit bridge from commercial result to taxable profit with supporting schedules.
+
+### Loonheffingen — Monthly payroll tax
+
+```
+/belastingadviseur:loonheffingen 2025-01
+```
+Upload `bv_broodjes_loonheffingen_2025_jan.csv`. Reviews payroll for 8 employees including WKR checks, contract types, and periodic reconciliation.
+
+### Aftrekcheck — Deduction eligibility
+
+```
+/belastingadviseur:aftrekcheck 2025 zzp
+```
+Upload `zzp_jan_boekhouding_2025.csv`. Validates zelfstandigenaftrek, MKB-winstvrijstelling, investeringsaftrek (KIA), and other applicable deductions with evidence checklist.
+
+### Bezwaar Brief — Tax objection letter
+
+```
+/belastingadviseur:bezwaar-brief inkomstenbelasting 2025-12-15
+```
+No test data file needed — provide assessment details and factual grounds interactively. Drafts a formal objection letter with legal references and deadline controls.
+
 ## Example Workflows
 
 ### Yearly intake and planning

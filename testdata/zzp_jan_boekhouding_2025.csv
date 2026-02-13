@@ -21,3 +21,31 @@ datum,factuurnummer,omschrijving,categorie,bedrag_excl_btw,btw_tarief,btw_bedrag
 2025-06-10,V-2025-008,Data migratie project,omzet_diensten,9500.00,21%,1995.00,11495.00,Eta Systems BV,nee,nee
 2025-06-25,I-2025-013,Kantoorruimte huur juni,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
 2025-06-30,I-2025-014,Vakliteratuur en cursussen,opleidingskosten,450.00,9%,40.50,490.50,Springest,nee,ja
+2025-07-10,V-2025-009,Interim advieswerk Theta BV,omzet_diensten,6800.00,21%,1428.00,8228.00,Theta BV,nee,ja
+2025-07-18,I-2025-015,Kantoorbenodigdheden,administratiekosten,145.00,21%,30.45,175.45,Staples,nee,ja
+2025-07-25,I-2025-016,Kantoorruimte huur juli,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-08-05,V-2025-010,Procesoptimalisatie Iota Corp,omzet_diensten,7200.00,21%,1512.00,8712.00,Iota Corp,nee,ja
+2025-08-12,V-2025-011,Data-analyse workshop,omzet_diensten,2400.00,21%,504.00,2904.00,Kappa Training BV,nee,ja
+2025-08-20,I-2025-017,Zakelijke telefoon abonnement Q3,communicatiekosten,89.85,21%,18.87,108.72,KPN,nee,ja
+2025-08-25,I-2025-018,Kantoorruimte huur augustus,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-09-03,V-2025-012,Strategisch advies Lambda NV,omzet_diensten,5400.00,21%,1134.00,6534.00,Lambda NV,nee,ja
+2025-09-12,I-2025-019,Treinkaarten zakelijk Q3,reiskosten,210.00,9%,18.90,228.90,NS,nee,ja
+2025-09-18,V-2025-013,Cloud migratie advies,omzet_diensten,3800.00,21%,798.00,4598.00,Mu Tech BV,nee,nee
+2025-09-25,I-2025-020,Kantoorruimte huur september,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-09-30,I-2025-021,Boekhoudpakket abonnement Q3,administratiekosten,29.95,21%,6.29,36.24,Exact Online,nee,ja
+2025-10-08,V-2025-014,IT audit opdracht Nu BV,omzet_diensten,4600.00,21%,966.00,5566.00,Nu BV,nee,ja
+2025-10-15,I-2025-022,Zakelijke verzekering Q4,verzekeringen,375.00,0%,0.00,375.00,Interpolis,nee,ja
+2025-10-20,V-2025-015,Advieswerk Duitsland Q4,omzet_diensten,6200.00,0%,0.00,6200.00,Weber Consulting GmbH,ja,ja
+2025-10-25,I-2025-023,Kantoorruimte huur oktober,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-11-05,V-2025-016,Consultancy opdracht Xi Systems,omzet_diensten,8900.00,21%,1869.00,10769.00,Xi Systems BV,nee,nee
+2025-11-12,V-2025-017,Projectmanagement advies,omzet_diensten,5200.00,21%,1092.00,6292.00,Omicron Corp,nee,ja
+2025-11-18,I-2025-024,Zakelijke telefoon abonnement Q4,communicatiekosten,89.85,21%,18.87,108.72,KPN,nee,ja
+2025-11-22,V-2025-018,Advieswerk België,omzet_diensten,4800.00,0%,0.00,4800.00,Janssens BVBA,ja,ja
+2025-11-25,I-2025-025,Kantoorruimte huur november,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-12-03,V-2025-019,Jaarafsluiting advies Pi Corp,omzet_diensten,7500.00,21%,1575.00,9075.00,Pi Corp,nee,ja
+2025-12-10,V-2025-020,Digitaliseringsstrategie,omzet_diensten,9200.00,21%,1932.00,11132.00,Rho Holding BV,nee,nee
+2025-12-15,I-2025-026,Vakliteratuur en cursussen H2,opleidingskosten,380.00,9%,34.20,414.20,Springest,nee,ja
+2025-12-18,I-2025-027,Treinkaarten zakelijk Q4,reiskosten,195.00,9%,17.55,212.55,NS,nee,ja
+2025-12-25,I-2025-028,Kantoorruimte huur december,huisvestingskosten,650.00,21%,136.50,786.50,WeWork Amsterdam,nee,ja
+2025-12-31,I-2025-029,Boekhoudpakket abonnement Q4,administratiekosten,29.95,21%,6.29,36.24,Exact Online,nee,ja
+2025-12-31,I-2025-030,Accountantskosten jaarafsluiting,administratiekosten,1200.00,21%,252.00,1452.00,De Boer Accountants,nee,ja
