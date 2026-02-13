@@ -1,3 +1,5 @@
+![Claude AI voor Belastingdienst](belastingadviseur_banner.png)
+
 # Belastingadviseur Plugin
 
 A bilingual Dutch tax workflow plugin for [Cowork](https://claude.com/product/cowork) and Claude Code.
@@ -9,12 +11,9 @@ It supports full-spectrum Netherlands tax operations for **particulier, ZZP, and
 
 ## Installation
 
-This repository contains the plugin source at `belastingadviseur/`.
+Install through the Cowork or Claude Code plugin import flow, pointing at the root of this repository.
 
-Install it through your Cowork/Claude plugin import flow using that folder.
-
-If your local CLI version supports plugin install commands, use that version's
-plugin install flow for `belastingadviseur/`.
+Pre-built zip files are also available on the [GitHub Releases](../../releases) page — download one and use the "upload plugin" option in the import flow.
 
 ## Commands
 
